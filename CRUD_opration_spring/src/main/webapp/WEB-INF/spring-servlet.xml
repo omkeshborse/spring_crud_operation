@@ -21,7 +21,7 @@
 		<property name="driverClassName" value="org.postgresql.Driver" />
 		<property name="url" value="jdbc:postgresql://localhost:5432/crudOperation?serverTimezone=UTC" />
 		<property name="username" value="postgres" />
-		<property name="password" value="2001!@#Qaz" />
+		<property name="password" value="2001omkesh" />
 	</bean>
 
 
